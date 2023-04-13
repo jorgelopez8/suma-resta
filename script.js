@@ -1,6 +1,6 @@
-alert("A continuacion se le pediran unos numeros");
+alert("A continuacion se le pediran unos numeros")
 let num1 = parseFloat(prompt("Introduzca aquí el primer número:"));
-let num2 = parseFloat(prompt("Ahora introduzca el siguiente número"))
+let num2 = parseFloat(prompt("Ahora introduzca el siguiente número"));
 
 let suma = num1 + num2;
 let resta = num1 - num2;
