@@ -9,5 +9,5 @@ let división = num2 !== 0 ? num1 / num2 : "No se puede dividir entre cero";
 
 alert("El resultado de la suma es: " + suma);
 alert("El resultado de la resta es: " + resta);
-alert("El resultado de la multiplicación es: " + multiplicacion);
-alert("El resultado de la división es: " + division);
+alert("El resultado de la multiplicación es: " + multiplicación);
+alert("El resultado de la división es: " + división);
